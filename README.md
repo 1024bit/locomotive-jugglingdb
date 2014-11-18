@@ -5,7 +5,7 @@ Jugglingdb datastore adapter for Locomotive.
 
 Installation
 ------
-    $ npm install locomotive-mongoose
+    $ npm install locomotive-jugglingdb
 
 Usage
 ------
